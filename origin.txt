@@ -1,0 +1,32 @@
+Uri: https://internationaltrucking.us/
+File Name: C:\Users\joshu\Documents\modern\internationaltrucking.us\index.htm
+Content Type: text/html
+
+Uri: https://internationaltrucking.us/images/pexels-photo-93398.png
+File Name: C:\Users\joshu\Documents\modern\internationaltrucking.us\images\pexels-photo-93398.png
+Content Type: image/png
+
+Uri: https://internationaltrucking.us/images/logo.png
+File Name: C:\Users\joshu\Documents\modern\internationaltrucking.us\images\logo.png
+Content Type: image/png
+
+Uri: https://internationaltrucking.us/about/
+File Name: C:\Users\joshu\Documents\modern\internationaltrucking.us\about\index.htm
+Content Type: text/html
+
+Uri: https://internationaltrucking.us/complaints/
+File Name: C:\Users\joshu\Documents\modern\internationaltrucking.us\complaints\index.htm
+Content Type: text/html
+
+Uri: https://internationaltrucking.us/status/
+File Name: C:\Users\joshu\Documents\modern\internationaltrucking.us\status\index.htm
+Content Type: text/html
+
+Uri: https://internationaltrucking.us/gallery/
+File Name: C:\Users\joshu\Documents\modern\internationaltrucking.us\gallery\index.htm
+Content Type: text/html
+
+Uri: https://internationaltrucking.us/news/
+File Name: C:\Users\joshu\Documents\modern\internationaltrucking.us\news\index.htm
+Content Type: text/html
+
